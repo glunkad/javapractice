@@ -1,7 +1,4 @@
 package com.glunkad.javapractice.week1;
-
-import java.util.Arrays;
-
 /*
 Given an integer array nums, return an array output where output[i] is the product of all the elements of nums except nums[i].
 Each product is guaranteed to fit in a 32-bit integer.
